@@ -2,3 +2,9 @@ G:\CoderDeck.CreateApp\CoderDeck.CreateApp.Repository\bin\Debug\CoderDeck.Create
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.Repository\bin\Debug\CoderDeck.CreateApp.Repository.pdb
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.Repository\obj\Debug\CoderDeck.CreateApp.Repository.dll
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.Repository\obj\Debug\CoderDeck.CreateApp.Repository.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.Repository\bin\Debug\CoderDeck.CreateApp.Repository.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.Repository\bin\Debug\CoderDeck.CreateApp.Repository.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.Repository\obj\Debug\CoderDeck.CreateApp.Repository.csprojAssemblyReference.cache
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.Repository\obj\Debug\CoderDeck.CreateApp.Repository.csproj.CoreCompileInputs.cache
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.Repository\obj\Debug\CoderDeck.CreateApp.Repository.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.Repository\obj\Debug\CoderDeck.CreateApp.Repository.pdb

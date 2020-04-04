@@ -3,3 +3,9 @@ G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\bin\Debug\CoderDeck.CreateApp.DTO
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.csprojResolveAssemblyReference.cache
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.dll
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.DTO\bin\Debug\CoderDeck.CreateApp.DTO.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.DTO\bin\Debug\CoderDeck.CreateApp.DTO.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.csprojAssemblyReference.cache
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.csproj.CoreCompileInputs.cache
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.pdb

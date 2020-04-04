@@ -8,3 +8,15 @@ G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.SqlS
 G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.csprojResolveAssemblyReference.cache
 G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.dll
 G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\CoderDeck.CreareApp.Domain.dll.config
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\CoderDeck.CreareApp.Domain.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\CoderDeck.CreareApp.Domain.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.xml
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.csprojAssemblyReference.cache
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.csproj.CoreCompileInputs.cache
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.csproj.CopyComplete
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.pdb

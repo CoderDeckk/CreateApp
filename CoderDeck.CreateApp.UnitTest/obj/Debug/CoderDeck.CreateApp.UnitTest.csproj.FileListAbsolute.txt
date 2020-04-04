@@ -2,3 +2,13 @@ G:\CoderDeck.CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\CoderDeck.CreateAp
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\CoderDeck.CreateApp.UnitTest.pdb
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.dll
 G:\CoderDeck.CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\CoderDeck.CreateApp.UnitTest.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\CoderDeck.CreateApp.UnitTest.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.csprojAssemblyReference.cache
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.csproj.CoreCompileInputs.cache
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\nunit.framework.dll
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\nunit.framework.pdb
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\nunit.framework.xml
+D:\CoderDeckk\CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.csproj.CopyComplete

@@ -42,6 +42,8 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -51,11 +53,54 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Class1.cs" />
+    <Compile Include="CoderDeck.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CoderDeck.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="CoderDeck.CreateApp.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CoderDeck.CreateApp.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="CoderDeck.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CoderDeck.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Plan.cs">
+      <DependentUpon>CoderDeck.tt</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="User.cs">
+      <DependentUpon>CoderDeck.tt</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <EntityDeploy Include="CoderDeck.CreateApp.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>CoderDeck.CreateApp.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="CoderDeck.CreateApp.edmx.diagram">
+      <DependentUpon>CoderDeck.CreateApp.edmx</DependentUpon>
+    </None>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="CoderDeck.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>CoderDeck.CreateApp.edmx</DependentUpon>
+      <LastGenOutput>CoderDeck.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="CoderDeck.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>CoderDeck.CreateApp.edmx</DependentUpon>
+      <LastGenOutput>CoderDeck.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
