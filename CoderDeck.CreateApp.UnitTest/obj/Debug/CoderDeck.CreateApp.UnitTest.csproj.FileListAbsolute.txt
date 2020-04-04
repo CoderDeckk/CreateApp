@@ -1,0 +1,4 @@
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\CoderDeck.CreateApp.UnitTest.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.UnitTest\bin\Debug\CoderDeck.CreateApp.UnitTest.pdb
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.UnitTest\obj\Debug\CoderDeck.CreateApp.UnitTest.pdb

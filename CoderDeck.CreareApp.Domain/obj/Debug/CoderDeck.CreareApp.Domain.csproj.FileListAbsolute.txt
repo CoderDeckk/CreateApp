@@ -1,0 +1,10 @@
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\CoderDeck.CreareApp.Domain.dll.config
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\CoderDeck.CreareApp.Domain.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\CoderDeck.CreareApp.Domain.pdb
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.SqlServer.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.xml
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\bin\Debug\EntityFramework.SqlServer.xml
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.csprojResolveAssemblyReference.cache
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreareApp.Domain\obj\Debug\CoderDeck.CreareApp.Domain.pdb

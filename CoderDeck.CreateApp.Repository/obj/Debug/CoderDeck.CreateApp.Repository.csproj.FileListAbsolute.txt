@@ -1,0 +1,4 @@
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.Repository\bin\Debug\CoderDeck.CreateApp.Repository.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.Repository\bin\Debug\CoderDeck.CreateApp.Repository.pdb
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.Repository\obj\Debug\CoderDeck.CreateApp.Repository.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.Repository\obj\Debug\CoderDeck.CreateApp.Repository.pdb

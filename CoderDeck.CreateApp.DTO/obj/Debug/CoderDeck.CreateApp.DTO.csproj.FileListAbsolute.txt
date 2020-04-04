@@ -1,0 +1,5 @@
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\bin\Debug\CoderDeck.CreateApp.DTO.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\bin\Debug\CoderDeck.CreateApp.DTO.pdb
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.csprojResolveAssemblyReference.cache
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.dll
+G:\CoderDeck.CreateApp\CoderDeck.CreateApp.DTO\obj\Debug\CoderDeck.CreateApp.DTO.pdb
